@@ -1,0 +1,9 @@
+*{
+  font-family: "Century Gothic";
+}
+
+.mainDiv{
+  border-radius: 5px;
+  border: solid 2px;
+  background-color: lightgray;
+}
